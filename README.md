@@ -15,7 +15,7 @@
 or
 > node index.js <stock symbol>
   
-** Note: You must provide the stock symbol as a command line argument **
+**Note: You must provide the stock symbol as a command line argument**
 
 ## Output
 Downloaded csv files will go to output folder in ./ of this project
