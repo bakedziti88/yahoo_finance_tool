@@ -11,8 +11,8 @@
 3. Install all packages using
 > npm i
 4. Start the project using either
-> npm start [stock symbol]
-or
+> npm start [stock symbol]  
+or  
 > node index.js [stock symbol]
   
 **Note: You must provide the stock symbol as a command line argument**
